@@ -12,3 +12,7 @@
 [Python Code Review: Adding Pytest Tests to an Existing Python Web Scraper](https://www.youtube.com/watch?v=03Ki2WpVRBc)
 
 [Holger Krekel - pytest - rapid and simple testing with Python](https://www.youtube.com/watch?v=9LVqBQcFmyw)
+
+# Articles
+
+# Code samples and pro
