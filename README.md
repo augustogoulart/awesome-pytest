@@ -1,5 +1,6 @@
-![](https://docs.pytest.org/en/latest/_static/pytest1.png)
+# Awesome pytest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome pytest
+<p align="center">
+  <img src='https://raw.githubusercontent.com/augustogoulart/awesome-pytest/master/final.jpg'>
+</p> 
 
-A curated list of awesome pytest resources
