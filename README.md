@@ -38,4 +38,4 @@
 
 # Code samples and projets
 
-[Pytest and Requests](https://github.com/requests/requests/tree/master/tests)
+[Requests - Python HTTP Requests for Humans™ and Pytest](https://github.com/requests/requests/tree/master/tests)
