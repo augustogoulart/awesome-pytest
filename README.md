@@ -36,6 +36,14 @@
 
 [How to use pytest fixtures in Django testing](https://medium.com/@harshvb7/how-to-use-pytest-fixtures-in-django-testing-44969f3f29e5)
 
+[Testing Python Applications with Pytest](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
+
 # Code samples and projets
 
 [Requests - Python HTTP Requests for Humans™ and Pytest](https://github.com/requests/requests/tree/master/tests)
+
+# Plugins
+
+[pytest-django](https://pytest-django.readthedocs.io/en/latest/)
+
+[pytest-bdd](https://pypi.python.org/pypi/pytest-bdd)
