@@ -38,6 +38,10 @@
 
 [Testing Python Applications with Pytest](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
 
+# Presentations
+
+[pytest for unittest users](https://gitpitch.com/nicoddemus/pytest-for-unittest-users)
+
 # Code samples and projets
 
 [Requests - Python HTTP Requests for Humans™ and Pytest](https://github.com/requests/requests/tree/master/tests)
