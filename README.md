@@ -59,3 +59,7 @@
 
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd)
 
+[pytest-spec](https://pypi.python.org/pypi/pytest-spec)
+
+[pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
+
