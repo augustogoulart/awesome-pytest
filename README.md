@@ -4,8 +4,6 @@
   <img src='https://raw.githubusercontent.com/augustogoulart/awesome-pytest/master/final.jpg'>
 </p> 
 
-# Documentação oficial
-[Documentação oficial do Pytest](https://docs.pytest.org/en/latest/contents.html)
 
 # Videos
 [Michael Tom-Wing, Christie Wilson - Introduction to Unit Testing in Python with Pytest - PyCon 2016](https://www.youtube.com/watch?v=UPanUFVFfzY)
@@ -15,10 +13,6 @@
 [Python Code Review: Adding Pytest Tests to an Existing Python Web Scraper](https://www.youtube.com/watch?v=03Ki2WpVRBc)
 
 [Holger Krekel - pytest - rapid and simple testing with Python](https://www.youtube.com/watch?v=9LVqBQcFmyw)
-
-
-# Blogs
-[Pytest-Tricks](http://hackebrot.github.io/pytest-tricks/)
 
 # Articles
 [Python unit testing with Pytest and Mock](https://medium.com/@bfortuner/python-unit-testing-with-pytest-and-mock-197499c4623c)
@@ -44,6 +38,8 @@
 [How to use pytest fixtures in Django testing](https://medium.com/@harshvb7/how-to-use-pytest-fixtures-in-django-testing-44969f3f29e5)
 
 [Testing Python Applications with Pytest](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
+
+[Pytest-Tricks](http://hackebrot.github.io/pytest-tricks/)
 
 # Presentations
 
