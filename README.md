@@ -4,6 +4,7 @@
   <img src='https://raw.githubusercontent.com/augustogoulart/awesome-pytest/master/final.jpg'>
 </p> 
 
+
 # Videos
 [Michael Tom-Wing, Christie Wilson - Introduction to Unit Testing in Python with Pytest - PyCon 2016](https://www.youtube.com/watch?v=UPanUFVFfzY)
 
@@ -38,6 +39,8 @@
 
 [Testing Python Applications with Pytest](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
 
+[Pytest-Tricks](http://hackebrot.github.io/pytest-tricks/)
+
 # Presentations
 
 [pytest for unittest users](https://gitpitch.com/nicoddemus/pytest-for-unittest-users)
@@ -51,3 +54,8 @@
 [pytest-django](https://pytest-django.readthedocs.io/en/latest/)
 
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd)
+
+[pytest-spec](https://pypi.python.org/pypi/pytest-spec)
+
+[pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
+
