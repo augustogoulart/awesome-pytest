@@ -51,11 +51,12 @@
 
 # Plugins
 
-[pytest-django](https://pytest-django.readthedocs.io/en/latest/)
-
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd)
+
+[pytest-deadfixtures](https://pypi.python.org/pypi/pytest-deadfixtures)
+
+[pytest-django](https://pytest-django.readthedocs.io/en/latest/)
 
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec)
 
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
-
