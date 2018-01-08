@@ -41,9 +41,12 @@
 
 [Pytest-Tricks](http://hackebrot.github.io/pytest-tricks/)
 
+
 # Presentations
 
 [pytest for unittest users](https://gitpitch.com/nicoddemus/pytest-for-unittest-users)
+
+[Introduction to pytest - Andreas Pelme - Euro Python 2014](https://www.youtube.com/watch?v=LdVJj65ikRY)
 
 # Code samples and projets
 
