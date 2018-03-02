@@ -56,6 +56,8 @@
 
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd)
 
+[pytest-datadir](https://github.com/gabrielcnr/pytest-datadir)
+
 [pytest-deadfixtures](https://pypi.python.org/pypi/pytest-deadfixtures)
 
 [pytest-django](https://pytest-django.readthedocs.io/en/latest/)
