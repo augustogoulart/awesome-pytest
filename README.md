@@ -48,7 +48,7 @@
 
 [Introduction to pytest - Andreas Pelme - Euro Python 2014](https://www.youtube.com/watch?v=LdVJj65ikRY)
 
-[Pytest recommendations and basic packages for testing in Python and Django Andreu Vallbona PyBCN June 2019] (https://www.slideshare.net/AndreuVallbonaPlazas/pybcn-pytest-recomendaciones-paquetes-bsicos-para-testing-en-python-y-django)
+[Pytest recommendations and basic packages for testing in Python and Django - Andreu Vallbona - PyBCN June 2019] (https://www.slideshare.net/AndreuVallbonaPlazas/pybcn-pytest-recomendaciones-paquetes-bsicos-para-testing-en-python-y-django)
 
 
 # Code samples and projets
