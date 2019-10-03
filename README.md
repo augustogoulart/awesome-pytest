@@ -65,3 +65,7 @@
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec)
 
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
+
+# Courses
+
+[Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
