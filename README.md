@@ -47,7 +47,7 @@
 
 
 # Presentations
-[Adopt-a-pytest](https://www.youtube.com/watch?v=0BzXV0J3-v8)
+[Adopt-a-pytest](https://www.youtube.com/watch?v=0BzXV0J3-v8) - [slides](https://speakerdeck.com/daneah/adopt-a-pytest)
 
 [pytest for unittest users](https://gitpitch.com/nicoddemus/pytest-for-unittest-users)
 
