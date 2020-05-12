@@ -15,6 +15,8 @@
 [Holger Krekel - pytest - rapid and simple testing with Python](https://www.youtube.com/watch?v=9LVqBQcFmyw)
 
 # Articles
+[Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
+
 [Python unit testing with Pytest and Mock](https://medium.com/@bfortuner/python-unit-testing-with-pytest-and-mock-197499c4623c)
 
 [The Cleaning Hand of Pytest](https://blog.daftcode.pl/the-cleaning-hand-of-pytest-28f434f4b684)
@@ -45,6 +47,7 @@
 
 
 # Presentations
+[Adopt-a-pytest](https://www.youtube.com/watch?v=0BzXV0J3-v8)
 
 [pytest for unittest users](https://gitpitch.com/nicoddemus/pytest-for-unittest-users)
 
@@ -53,7 +56,7 @@
 [Pytest recommendations and basic packages for testing in Python and Django - Andreu Vallbona - PyBCN June 2019](https://www.slideshare.net/AndreuVallbonaPlazas/pybcn-pytest-recomendaciones-paquetes-bsicos-para-testing-en-python-y-django)
 
 
-# Code samples and projets
+# Code samples and projects
 
 [Requests - Python HTTP Requests for Humans™ and Pytest](https://github.com/requests/requests/tree/master/tests)
 
