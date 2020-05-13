@@ -75,6 +75,6 @@
 
 # Books
 
-Python Testing with pytest by Brian Okken - [The Pragmatic Programmers (publisher)](https://pragprog.com/book/bopytest/python-testing-with-pytest) | [Amazon](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
+Python Testing with pytest by Brian Okken - [The Pragmatic Programmers (publisher)](https://pragprog.com/book/bopytest/python-testing-with-pytest)
 
-pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.packtpub.com/web-development/pytest-quick-start-guide) | [Amazon](https://www.amazon.com/pytest-Quick-Start-Guide-maintainable/dp/1789347564)
+pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.packtpub.com/web-development/pytest-quick-start-guide)
