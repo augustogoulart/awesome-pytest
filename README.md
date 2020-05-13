@@ -77,3 +77,9 @@
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
+
+# Books
+
+Python Testing with pytest by Brian Okken - [The Pragmatic Programmers (publisher)](https://pragprog.com/book/bopytest/python-testing-with-pytest)
+
+pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.packtpub.com/web-development/pytest-quick-start-guide)
