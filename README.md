@@ -74,6 +74,8 @@
 
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
 
+[pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
