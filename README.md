@@ -76,6 +76,9 @@
 
 [pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
 
+[model-bakery](https://github.com/model-bakers/model_bakery) - Model Bakery offers you a smart way to create fixtures for testing in Django
+
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
