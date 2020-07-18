@@ -74,6 +74,8 @@
 
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
 
+[model-bakery](https://github.com/model-bakers/model_bakery) - Model Bakery offers you a smart way to create fixtures for testing in Django
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
