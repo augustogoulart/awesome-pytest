@@ -72,6 +72,8 @@
 
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec)
 
+[pytest-sugar](https://pypi.org/project/pytest-sugar/) - pytest-sugar changes the look and feel of pytest by adding a progressbar and instafailing tests.
+
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
 
 [pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
