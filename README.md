@@ -64,6 +64,8 @@
 
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd)
 
+[pytest-cov](https://pypi.org/project/pytest-cov/) - This plugin produces coverage reports
+
 [pytest-datadir](https://github.com/gabrielcnr/pytest-datadir)
 
 [pytest-deadfixtures](https://pypi.python.org/pypi/pytest-deadfixtures)
