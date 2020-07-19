@@ -70,6 +70,8 @@
 
 [pytest-django](https://pytest-django.readthedocs.io/en/latest/)
 
+[pytest-flake8](https://pypi.org/project/pytest-flake8/) - pytest plugin for efficiently checking PEP8 compliance
+
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec)
 
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
