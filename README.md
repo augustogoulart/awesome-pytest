@@ -70,6 +70,8 @@
 
 [pytest-django](https://pytest-django.readthedocs.io/en/latest/)
 
+[pytest-freezegun](https://pypi.org/project/pytest-freezegun/) - Plugin that allows your Python tests to travel through time by mocking the datetime module.
+
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec)
 
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
