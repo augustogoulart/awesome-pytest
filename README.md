@@ -72,6 +72,8 @@
 
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec) - pytest plugin to display test execution output like a SPECIFICATION.
 
+[pytest-freezegun](https://pypi.org/project/pytest-freezegun/) - Plugin that allows your Python tests to travel through time by mocking the datetime module.
+
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 [pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
