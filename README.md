@@ -70,6 +70,8 @@
 
 [pytest-deadfixtures](https://pypi.python.org/pypi/pytest-deadfixtures) - A simple plugin to list unused or duplicated fixtures in a pytest suite.
 
+[pytest-flake8](https://pypi.org/project/pytest-flake8/) - pytest plugin for efficiently checking PEP8 compliance
+
 [pytest-django](https://pytest-django.readthedocs.io/en/latest/) - pytest-django is a plugin for pytest that provides a set of useful tools for testing Django applications and projects.
 
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec) - pytest plugin to display test execution output like a SPECIFICATION.
