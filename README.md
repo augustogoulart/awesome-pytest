@@ -64,6 +64,8 @@
 
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
 
+[pytest-cov](https://pypi.org/project/pytest-cov/) - This plugin produces coverage reports
+
 [pytest-datadir](https://github.com/gabrielcnr/pytest-datadir) - pytest plugin for manipulating test data directories and files
 
 [pytest-deadfixtures](https://pypi.python.org/pypi/pytest-deadfixtures) - A simple plugin to list unused or duplicated fixtures in a pytest suite.
