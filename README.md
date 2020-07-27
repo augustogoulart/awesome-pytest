@@ -62,19 +62,21 @@
 
 # Plugins
 
-[pytest-bdd](https://pypi.python.org/pypi/pytest-bdd)
+[pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
 
-[pytest-datadir](https://github.com/gabrielcnr/pytest-datadir)
+[pytest-datadir](https://github.com/gabrielcnr/pytest-datadir) - pytest plugin for manipulating test data directories and files
 
-[pytest-deadfixtures](https://pypi.python.org/pypi/pytest-deadfixtures)
+[pytest-deadfixtures](https://pypi.python.org/pypi/pytest-deadfixtures) - A simple plugin to list unused or duplicated fixtures in a pytest suite.
 
-[pytest-django](https://pytest-django.readthedocs.io/en/latest/)
+[pytest-django](https://pytest-django.readthedocs.io/en/latest/) - pytest-django is a plugin for pytest that provides a set of useful tools for testing Django applications and projects.
 
-[pytest-spec](https://pypi.python.org/pypi/pytest-spec)
+[pytest-spec](https://pypi.python.org/pypi/pytest-spec) - pytest plugin to display test execution output like a SPECIFICATION.
 
 [pytest-sugar](https://pypi.org/project/pytest-sugar/) - pytest-sugar changes the look and feel of pytest by adding a progressbar and instafailing tests.
 
-[pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
+[pytest-freezegun](https://pypi.org/project/pytest-freezegun/) - Plugin that allows your Python tests to travel through time by mocking the datetime module.
+
+[pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 [pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
 
