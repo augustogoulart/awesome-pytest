@@ -82,6 +82,8 @@
 
 [model-bakery](https://github.com/model-bakers/model_bakery) - Model Bakery offers you a smart way to create fixtures for testing in Django
 
+[pytest-checkipdb](https://pypi.org/project/pytest-checkipdb/) - Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
+
 
 # Courses
 
