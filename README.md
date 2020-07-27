@@ -72,6 +72,8 @@
 
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec) - pytest plugin to display test execution output like a SPECIFICATION.
 
+[pytest-sugar](https://pypi.org/project/pytest-sugar/) - pytest-sugar changes the look and feel of pytest by adding a progressbar and instafailing tests.
+
 [pytest-freezegun](https://pypi.org/project/pytest-freezegun/) - Plugin that allows your Python tests to travel through time by mocking the datetime module.
 
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
