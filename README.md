@@ -88,6 +88,7 @@
 
 [pytest-checkipdb](https://pypi.org/project/pytest-checkipdb/) - Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
 
+[pytest-mimesis](https://github.com/pytest-dev/pytest-mimesis) - Mimesis integration with the pytest test runner. Generate fake data in your tests.
 
 # Courses
 
