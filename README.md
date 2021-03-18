@@ -90,6 +90,12 @@
 
 [pytest-mimesis](https://github.com/pytest-dev/pytest-mimesis) - Mimesis integration with the pytest test runner. Generate fake data in your tests.
 
+[pytest-watch](https://pypi.org/project/pytest-watch/) - Watches files and runs tests whenever a file is changed.
+
+[pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
+
+[pytest-fast-first](https://pypi.org/project/pytest-fast-first/) - Run fast tests before slower one.
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
