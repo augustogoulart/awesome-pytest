@@ -94,7 +94,11 @@
 
 [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continous test runner when used with pytest-watch.
 
-[pytest-watch](https://github.com/joeyespo/pytest-watch) - A zero-config CLI tool that runs pytest, and re-runs it when a file in your project changes.
+[pytest-watch](https://pypi.org/project/pytest-watch/) - Watches files and runs tests whenever a file is changed.
+
+[pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
+
+[pytest-fast-first](https://pypi.org/project/pytest-fast-first/) - Run fast tests before slower one.
 
 # Courses
 
