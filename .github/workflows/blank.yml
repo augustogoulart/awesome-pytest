@@ -16,7 +16,7 @@ jobs:
     - name: Checkout HEAD
       uses: actions/checkout@v2
       with:
-        ref: main
+        ref: master
 
     # Step 2: run this sync action - specify the upstream repo, upstream branch to sync with, and target sync branch
     - name: Pull upstream changes
