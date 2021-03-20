@@ -102,6 +102,8 @@
 
 [pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - Pytest plugin to randomly order tests and control `random.seed`. By randomly ordering the tests, the risk of surprising inter-test dependencies is reduced.
 
+[pytest-reverse](https://github.com/adamchainz/pytest-reverse) - Pytest plugin to reverse test order.
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
