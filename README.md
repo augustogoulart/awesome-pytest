@@ -100,6 +100,8 @@
 
 [pytest-fast-first](https://pypi.org/project/pytest-fast-first/) - Run fast tests before slower one.
 
+[pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - Pytest plugin to randomly order tests and control `random.seed`. By randomly ordering the tests, the risk of surprising inter-test dependencies is reduced.
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
