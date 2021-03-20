@@ -25,5 +25,6 @@ jobs:
       with:
         upstream_repository: augustogoulart/awesome-pytest
         upstream_branch: master
+        git_pull_args: --unshallow
         target_branch: master                       # optional
         github_token: ${{ secrets.GITHUB_TOKEN }}   # optional, for accessing repos that require authentication
