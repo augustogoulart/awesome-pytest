@@ -104,6 +104,9 @@
 
 [pytest-reverse](https://github.com/adamchainz/pytest-reverse) - Pytest plugin to reverse test order.
 
+[pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the readability of pytest output.
+
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
