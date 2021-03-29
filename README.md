@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src='https://raw.githubusercontent.com/augustogoulart/awesome-pytest/master/final.jpg'>
-</p> 
+</p>
 
 
 # Videos
@@ -27,7 +27,7 @@
 
 [Creating a PySpark project with pytest, pyenv, and egg files](https://medium.com/@mrpowers/creating-a-pyspark-project-with-pytest-pyenv-and-egg-files-d2709eb1604c)
 
-[Unit testing Apache Spark with py.test](https://engblog.nextdoor.com/unit-testing-apache-spark-with-py-test-3b8970dc013b) 
+[Unit testing Apache Spark with py.test](https://engblog.nextdoor.com/unit-testing-apache-spark-with-py-test-3b8970dc013b)
 
 [Testing sys.exit() with pytest](https://medium.com/python-pandemonium/testing-sys-exit-with-pytest-10c6e5f7726f)
 
@@ -35,7 +35,7 @@
 
 [Django + Mongo = Pytest FTW! A clean way to manage connecting and dropping of database between tests](https://medium.com/@antash/django-mongo-pytest-ftw-1610c99588ab)
 
-[Pytest-mock. How to mock your database connection](https://medium.com/@mariusz.raczynski2/pytest-mock-how-to-mock-your-database-connection-5c84a5a0bfc3) 
+[Pytest-mock. How to mock your database connection](https://medium.com/@mariusz.raczynski2/pytest-mock-how-to-mock-your-database-connection-5c84a5a0bfc3)
 
 [How to use pytest fixtures in Django testing](https://medium.com/@harshvb7/how-to-use-pytest-fixtures-in-django-testing-44969f3f29e5)
 
@@ -90,11 +90,22 @@
 
 [pytest-mimesis](https://github.com/pytest-dev/pytest-mimesis) - Mimesis integration with the pytest test runner. Generate fake data in your tests.
 
+[pytest-repeat](https://github.com/pytest-dev/pytest-repeat) - A plugin for pytest that makes it easy to repeat a single test, or multiple tests, a specific number of times.
+
+[pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continous test runner when used with pytest-watch.
+
 [pytest-watch](https://pypi.org/project/pytest-watch/) - Watches files and runs tests whenever a file is changed.
 
 [pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
 
 [pytest-fast-first](https://pypi.org/project/pytest-fast-first/) - Run fast tests before slower one.
+
+[pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - Pytest plugin to randomly order tests and control `random.seed`. By randomly ordering the tests, the risk of surprising inter-test dependencies is reduced.
+
+[pytest-reverse](https://github.com/adamchainz/pytest-reverse) - Pytest plugin to reverse test order.
+
+[pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the readability of pytest output.
+
 
 # Courses
 
