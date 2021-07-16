@@ -113,6 +113,8 @@
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
 
+[Calmcode - Intro to Testing with Pytest](https://calmcode.io/pytest/introduction.html)
+
 # Books
 
 Python Testing with pytest by Brian Okken - [The Pragmatic Programmers (publisher)](https://pragprog.com/book/bopytest/python-testing-with-pytest)
