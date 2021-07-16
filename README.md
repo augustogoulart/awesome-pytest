@@ -108,6 +108,9 @@
 
 [pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - Tests code blocks in your READMEs.
 
+[pytest-reportlog](https://github.com/pytest-dev/pytest-reportlog) - Report logs into a file as the test session executes.
+
+[pytest-duration-insights](https://github.com/koaning/pytest-duration-insights) - Gives an interactive dashboard to show where the slow tests are.
 
 # Courses
 
