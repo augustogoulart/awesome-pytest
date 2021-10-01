@@ -62,6 +62,8 @@
 
 # Plugins
 
+[Plugin List](https://docs.pytest.org/en/latest/reference/plugin_list.html) - PyPI projects that match “pytest-*” are considered plugins and are listed automatically. Packages classified as inactive are excluded. This list contains 865 plugins.
+
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
 
 [pytest-cov](https://pypi.org/project/pytest-cov/) - This plugin produces coverage reports
@@ -108,11 +110,17 @@
 
 [pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - Tests code blocks in your READMEs.
 
+<<<<<<< HEAD
 [pytest-reportlog](https://github.com/pytest-dev/pytest-reportlog) - Report logs into a file as the test session executes.
 
 [pytest-duration-insights](https://github.com/koaning/pytest-duration-insights) - Gives an interactive dashboard to show where the slow tests are.
 
 [pytest-pinned](https://github.com/freol35241/pytest-pinned) - A simple pytest plugin for writing pinning tests. Pinning tests, snapshot tests or characterization tests are meant to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior against unintended changes via automated testing.
+=======
+[pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest-monitor is a pytest plugin designed for analyzing resource usage.
+
+[pytest-profiling](https://github.com/man-group/pytest-plugins/tree/master/pytest-profiling) - Profiling plugin for pytest, with tabular and heat graph output.
+>>>>>>> master
 
 # Courses
 
