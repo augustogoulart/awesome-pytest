@@ -120,6 +120,8 @@
 
 [pytest-profiling](https://github.com/man-group/pytest-plugins/tree/master/pytest-profiling) - Profiling plugin for pytest, with tabular and heat graph output.
 
+[pytest_docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
