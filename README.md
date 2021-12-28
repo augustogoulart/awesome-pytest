@@ -120,7 +120,10 @@
 
 [pytest-profiling](https://github.com/man-group/pytest-plugins/tree/master/pytest-profiling) - Profiling plugin for pytest, with tabular and heat graph output.
 
+[pytest_profiles](https://github.com/stefanhoelzl/pytest_profiles) - Lets you create configuration profiles for pytest.
+
 [pytest_docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
+
 
 # Courses
 
