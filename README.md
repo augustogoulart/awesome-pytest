@@ -122,6 +122,9 @@
 
 [pytest_profiles](https://github.com/stefanhoelzl/pytest_profiles) - Lets you create configuration profiles for pytest.
 
+[pytest_docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
+
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
