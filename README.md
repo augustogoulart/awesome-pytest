@@ -124,6 +124,7 @@
 
 [pytest_docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
 
+[pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards. 
 
 # Courses
 
