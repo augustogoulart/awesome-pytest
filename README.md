@@ -126,6 +126,8 @@
 
 [pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards. 
 
+[pytest-unordered](https://github.com/utapyngo/pytest-unordered) - Test collection content, ignoring order. 
+
 # Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
