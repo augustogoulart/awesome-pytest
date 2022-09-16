@@ -64,7 +64,15 @@
 
 [Plugin List](https://docs.pytest.org/en/latest/reference/plugin_list.html) - PyPI projects that match “pytest-*” are considered plugins and are listed automatically. Packages classified as inactive are excluded. This list contains 865 plugins.
 
+[model-bakery](https://github.com/model-bakers/model_bakery) - Model Bakery offers you a smart way to create fixtures for testing in Django
+
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
+
+[pytest-checkipdb](https://pypi.org/project/pytest-checkipdb/) - Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
+
+[pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the readability of pytest output.
+
+[pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - Tests code blocks in your READMEs.
 
 [pytest-cov](https://pypi.org/project/pytest-cov/) - This plugin produces coverage reports
 
@@ -72,61 +80,53 @@
 
 [pytest-deadfixtures](https://pypi.python.org/pypi/pytest-deadfixtures) - A simple plugin to list unused or duplicated fixtures in a pytest suite.
 
+[pytest-django](https://pytest-django.readthedocs.io/en/latest/) - pytest-django is a plugin for pytest that provides a set of useful tools for testing Django applications and projects.
+
+[pytest_docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
+
+[pytest-duration-insights](https://github.com/koaning/pytest-duration-insights) - Gives an interactive dashboard to show where the slow tests are.
+
+[pytest-fast-first](https://pypi.org/project/pytest-fast-first/) - Run fast tests before slower one.
+
 [pytest-flake8](https://pypi.org/project/pytest-flake8/) - pytest plugin for efficiently checking PEP8 compliance
 
-[pytest-django](https://pytest-django.readthedocs.io/en/latest/) - pytest-django is a plugin for pytest that provides a set of useful tools for testing Django applications and projects.
+[pytest-freezegun](https://pypi.org/project/pytest-freezegun/) - Plugin that allows your Python tests to travel through time by mocking the datetime module.
+
+[pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
+
+[pytest-mimesis](https://github.com/pytest-dev/pytest-mimesis) - Mimesis integration with the pytest test runner. Generate fake data in your tests.
+
+[pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards. 
+
+[pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest-monitor is a pytest plugin designed for analyzing resource usage.
+
+[pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
+
+[pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - Pytest plugin to randomly order tests and control `random.seed`. By randomly ordering the tests, the risk of surprising inter-test dependencies is reduced.
+
+[pytest-repeat](https://github.com/pytest-dev/pytest-repeat) - A plugin for pytest that makes it easy to repeat a single test, or multiple tests, a specific number of times.
+
+[pytest-reportlog](https://github.com/pytest-dev/pytest-reportlog) - Report logs into a file as the test session executes.
+
+[pytest-reverse](https://github.com/adamchainz/pytest-reverse) - Pytest plugin to reverse test order.
 
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec) - pytest plugin to display test execution output like a SPECIFICATION.
 
 [pytest-sugar](https://pypi.org/project/pytest-sugar/) - pytest-sugar changes the look and feel of pytest by adding a progressbar and instafailing tests.
 
-[pytest-freezegun](https://pypi.org/project/pytest-freezegun/) - Plugin that allows your Python tests to travel through time by mocking the datetime module.
-
-[pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
-
-[pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
-
-[model-bakery](https://github.com/model-bakers/model_bakery) - Model Bakery offers you a smart way to create fixtures for testing in Django
-
-[pytest-checkipdb](https://pypi.org/project/pytest-checkipdb/) - Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
-
-[pytest-mimesis](https://github.com/pytest-dev/pytest-mimesis) - Mimesis integration with the pytest test runner. Generate fake data in your tests.
-
-[pytest-repeat](https://github.com/pytest-dev/pytest-repeat) - A plugin for pytest that makes it easy to repeat a single test, or multiple tests, a specific number of times.
-
 [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continous test runner when used with pytest-watch.
-
-[pytest-watch](https://pypi.org/project/pytest-watch/) - Watches files and runs tests whenever a file is changed.
-
-[pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
-
-[pytest-fast-first](https://pypi.org/project/pytest-fast-first/) - Run fast tests before slower one.
-
-[pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - Pytest plugin to randomly order tests and control `random.seed`. By randomly ordering the tests, the risk of surprising inter-test dependencies is reduced.
-
-[pytest-reverse](https://github.com/adamchainz/pytest-reverse) - Pytest plugin to reverse test order.
-
-[pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the readability of pytest output.
-
-[pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - Tests code blocks in your READMEs.
-
-[pytest-reportlog](https://github.com/pytest-dev/pytest-reportlog) - Report logs into a file as the test session executes.
-
-[pytest-duration-insights](https://github.com/koaning/pytest-duration-insights) - Gives an interactive dashboard to show where the slow tests are.
 
 [pytest-pinned](https://github.com/freol35241/pytest-pinned) - A simple pytest plugin for writing pinning tests. Pinning tests, snapshot tests or characterization tests are meant to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior against unintended changes via automated testing.
 
-[pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest-monitor is a pytest plugin designed for analyzing resource usage.
+[pytest_profiles](https://github.com/stefanhoelzl/pytest_profiles) - Lets you create configuration profiles for pytest.
 
 [pytest-profiling](https://github.com/man-group/pytest-plugins/tree/master/pytest-profiling) - Profiling plugin for pytest, with tabular and heat graph output.
 
-[pytest_profiles](https://github.com/stefanhoelzl/pytest_profiles) - Lets you create configuration profiles for pytest.
-
-[pytest_docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
-
-[pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards. 
-
 [pytest-unordered](https://github.com/utapyngo/pytest-unordered) - Test collection content, ignoring order. 
+
+[pytest-watch](https://pypi.org/project/pytest-watch/) - Watches files and runs tests whenever a file is changed.
+
+[pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 # Courses
 
