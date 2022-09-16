@@ -122,6 +122,8 @@
 
 [pytest-profiling](https://github.com/man-group/pytest-plugins/tree/master/pytest-profiling) - Profiling plugin for pytest, with tabular and heat graph output.
 
+[pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Infrastructure testing to validate the actual state of your servers configured by management tools like Salt, Ansible, Puppet, Chef and so on.
+
 [pytest-unordered](https://github.com/utapyngo/pytest-unordered) - Test collection content, ignoring order. 
 
 [pytest-watch](https://pypi.org/project/pytest-watch/) - Watches files and runs tests whenever a file is changed.
