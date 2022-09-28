@@ -64,8 +64,6 @@
 
 [Plugin List](https://docs.pytest.org/en/latest/reference/plugin_list.html) - PyPI projects that match “pytest-*” are considered plugins and are listed automatically. Packages classified as inactive are excluded. This list contains 865 plugins.
 
-[model-bakery](https://github.com/model-bakers/model_bakery) - Model Bakery offers you a smart way to create fixtures for testing in Django
-
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
 
 [pytest-checkipdb](https://pypi.org/project/pytest-checkipdb/) - Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
