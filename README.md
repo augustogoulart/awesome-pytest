@@ -72,6 +72,8 @@
 
 [pytest-deadfixtures](https://pypi.python.org/pypi/pytest-deadfixtures) - A simple plugin to list unused or duplicated fixtures in a pytest suite.
 
+[pytest-embrace](https://github.com/ainsleymcgrath/pytest-embrace) - Dataclasses-as-tests. Describe the runtime once and multiply coverage with no boilerplate.
+
 [pytest-flake8](https://pypi.org/project/pytest-flake8/) - pytest plugin for efficiently checking PEP8 compliance
 
 [pytest-django](https://pytest-django.readthedocs.io/en/latest/) - pytest-django is a plugin for pytest that provides a set of useful tools for testing Django applications and projects.
@@ -124,9 +126,9 @@
 
 [pytest_docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
 
-[pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards. 
+[pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards.
 
-[pytest-unordered](https://github.com/utapyngo/pytest-unordered) - Test collection content, ignoring order. 
+[pytest-unordered](https://github.com/utapyngo/pytest-unordered) - Test collection content, ignoring order.
 
 # Courses
 
