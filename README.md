@@ -45,6 +45,7 @@
 
 [How to modularize your py.test fixtures](https://gist.github.com/peterhurford/09f7dcda0ab04b95c026c60fa49c2a68)
 
+[How to write parametrized tests using pytest](https://geniepy.com/blog/how-to-write-parametrized-tests-using-pytest/)
 
 # Presentations
 [Adopt-a-pytest](https://www.youtube.com/watch?v=0BzXV0J3-v8) - [slides](https://speakerdeck.com/daneah/adopt-a-pytest)
