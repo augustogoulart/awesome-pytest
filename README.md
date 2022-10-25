@@ -81,7 +81,7 @@
 
 [pytest-embrace](https://github.com/ainsleymcgrath/pytest-embrace) - Dataclasses-as-tests. Describe the runtime once and multiply coverage with no boilerplate.
 
-[pytest-flake8](https://pypi.org/project/pytest-flake8/) - pytest plugin for efficiently checking PEP8 compliance
+[pytest-flake8](https://pypi.org/project/pytest-flake8/) - pytest plugin for efficiently checking PEP8 compliance.
 
 [pytest-django](https://pytest-django.readthedocs.io/en/latest/) - pytest-django is a plugin for pytest that provides a set of useful tools for testing Django applications and projects.
 
