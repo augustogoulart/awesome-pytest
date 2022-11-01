@@ -65,6 +65,8 @@
 
 [Plugin List](https://docs.pytest.org/en/latest/reference/plugin_list.html) - PyPI projects that match “pytest-*” are considered plugins and are listed automatically. Packages classified as inactive are excluded. This list contains 865 plugins.
 
+[pyfakefs](https://github.com/pytest-dev/pyfakefs) - Provides a fake file system that mocks the Python file system modules.
+
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
 
 [pytest-checkipdb](https://pypi.org/project/pytest-checkipdb/) - Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
@@ -81,7 +83,7 @@
 
 [pytest-embrace](https://github.com/ainsleymcgrath/pytest-embrace) - Dataclasses-as-tests. Describe the runtime once and multiply coverage with no boilerplate.
 
-[pytest-flake8](https://pypi.org/project/pytest-flake8/) - pytest plugin for efficiently checking PEP8 compliance
+[pytest-flake8](https://pypi.org/project/pytest-flake8/) - pytest plugin for efficiently checking PEP8 compliance.
 
 [pytest-django](https://pytest-django.readthedocs.io/en/latest/) - pytest-django is a plugin for pytest that provides a set of useful tools for testing Django applications and projects.
 
@@ -99,7 +101,7 @@
 
 [pytest-mimesis](https://github.com/pytest-dev/pytest-mimesis) - Mimesis integration with the pytest test runner. Generate fake data in your tests.
 
-[pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards. 
+[pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards.
 
 [pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest-monitor is a pytest plugin designed for analyzing resource usage.
 
@@ -112,6 +114,8 @@
 [pytest-reportlog](https://github.com/pytest-dev/pytest-reportlog) - Report logs into a file as the test session executes.
 
 [pytest-reverse](https://github.com/adamchainz/pytest-reverse) - Pytest plugin to reverse test order.
+
+[pytest-socket](https://github.com/miketheman/pytest-socket) - Plugin to disable socket calls during tests.
 
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec) - pytest plugin to display test execution output like a SPECIFICATION.
 
@@ -127,7 +131,7 @@
 
 [pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Infrastructure testing to validate the actual state of your servers configured by management tools like Salt, Ansible, Puppet, Chef and so on.
 
-[pytest-unordered](https://github.com/utapyngo/pytest-unordered) - Test collection content, ignoring order. 
+[pytest-unordered](https://github.com/utapyngo/pytest-unordered) - Test collection content, ignoring order.
 
 [pytest-watch](https://pypi.org/project/pytest-watch/) - Watches files and runs tests whenever a file is changed.
 
