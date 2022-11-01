@@ -47,6 +47,8 @@
 
 [How to write parametrized tests using pytest](https://geniepy.com/blog/how-to-write-parametrized-tests-using-pytest/)
 
+[A checklist of best practices to speed up your pytest suite](https://github.com/zupo/awesome-pytest-speedup)
+
 # Presentations
 [Adopt-a-pytest](https://www.youtube.com/watch?v=0BzXV0J3-v8) - [slides](https://speakerdeck.com/daneah/adopt-a-pytest)
 
