@@ -109,6 +109,8 @@
 
 [pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
 
+[pytest-pyodide](https://github.com/pyodide/pytest-pyodide) - Pytest plugin for testing applications that use [Pyodide](https://pyodide.org/).
+
 [pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - Pytest plugin to randomly order tests and control `random.seed`. By randomly ordering the tests, the risk of surprising inter-test dependencies is reduced.
 
 [pytest-repeat](https://github.com/pytest-dev/pytest-repeat) - A plugin for pytest that makes it easy to repeat a single test, or multiple tests, a specific number of times.
