@@ -101,6 +101,8 @@
 
 [pytest-freezegun](https://pypi.org/project/pytest-freezegun/) - Plugin that allows your Python tests to travel through time by mocking the datetime module.
 
+[pytest-git-selector](https://github.com/05798/pytest-git-selector) - A pytest plugin to deselect tests that are not affected by code changes.
+
 [pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
 
 [pytest-mimesis](https://github.com/pytest-dev/pytest-mimesis) - Mimesis integration with the pytest test runner. Generate fake data in your tests.
