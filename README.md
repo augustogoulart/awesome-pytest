@@ -67,6 +67,8 @@
 
 [Plugin List](https://docs.pytest.org/en/latest/reference/plugin_list.html) - PyPI projects that match “pytest-*” are considered plugins and are listed automatically. Packages classified as inactive are excluded. This list contains 865 plugins.
 
+[AFLuent](https://github.com/AFLuent/AFLuent) - Automated fault localization tool built as a Pytest plugin. It's triggered when one or more test case fails causing it to generate a ranking of suspicious statements where the cause of the fault could possibly be.
+
 [pyfakefs](https://github.com/pytest-dev/pyfakefs) - Provides a fake file system that mocks the Python file system modules.
 
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
@@ -99,6 +101,8 @@
 
 [pytest-freezegun](https://pypi.org/project/pytest-freezegun/) - Plugin that allows your Python tests to travel through time by mocking the datetime module.
 
+[pytest-git-selector](https://github.com/05798/pytest-git-selector) - A pytest plugin to deselect tests that are not affected by code changes.
+
 [pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
 
 [pytest-mimesis](https://github.com/pytest-dev/pytest-mimesis) - Mimesis integration with the pytest test runner. Generate fake data in your tests.
@@ -108,6 +112,10 @@
 [pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest-monitor is a pytest plugin designed for analyzing resource usage.
 
 [pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
+
+[pytest-pointers](https://github.com/jaklimoff/pytest-pointers) - Show the number of tests covering your code.
+
+[pytest-pyodide](https://github.com/pyodide/pytest-pyodide) - Pytest plugin for testing applications that use [Pyodide](https://pyodide.org/).
 
 [pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - Pytest plugin to randomly order tests and control `random.seed`. By randomly ordering the tests, the risk of surprising inter-test dependencies is reduced.
 
