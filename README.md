@@ -91,6 +91,8 @@
 
 [pytest-django](https://pytest-django.readthedocs.io/en/latest/) - pytest-django is a plugin for pytest that provides a set of useful tools for testing Django applications and projects.
 
+[pytest django-migrations-ci](https://github.com/buserbrasil/django-migrations-ci) - pytest plugin to speed up test migrations with django-migrations-ci.
+
 [pytest_docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
 
 [pytest-duration-insights](https://github.com/koaning/pytest-duration-insights) - Gives an interactive dashboard to show where the slow tests are.
