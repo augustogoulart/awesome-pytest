@@ -147,6 +147,8 @@
 
 [pytest-watch](https://pypi.org/project/pytest-watch/) - Watches files and runs tests whenever a file is changed.
 
+[pytest-watcher](https://github.com/olzhasar/pytest-watcher) - Automatically rerun your tests on file modifications
+
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 [pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards.
