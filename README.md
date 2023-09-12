@@ -125,6 +125,8 @@
 
 [pytest-reverse](https://github.com/adamchainz/pytest-reverse) - Pytest plugin to reverse test order.
 
+[pytest-robotframework](https://github.com/detachhead/pytest-robotframework) - Lets you run both python and robotframework tests with pytest while generating robot reports for them.
+
 [pytest-ruff](https://github.com/buserbrasil/pytest-ruff) - Pytest plugin to lint code with ruff.
 
 [pytest-socket](https://github.com/miketheman/pytest-socket) - Plugin to disable socket calls during tests.
