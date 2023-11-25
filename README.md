@@ -111,6 +111,8 @@
 
 [pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest-monitor is a pytest plugin designed for analyzing resource usage.
 
+[pytest-opentelemetry](https://github.com/chrisguidry/pytest-opentelemetry) - Instruments your pytest runs, exporting the spans and timing via OpenTelemetry.
+
 [pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
 
 [pytest-pointers](https://github.com/jaklimoff/pytest-pointers) - Show the number of tests covering your code.
