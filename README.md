@@ -4,8 +4,18 @@
   <img src='https://raw.githubusercontent.com/augustogoulart/awesome-pytest/master/final.jpg'>
 </p>
 
+## Contents
 
-# Videos
+- [Videos](#videos)
+- [Articles](#articles)
+- [Presentations](#presentations)
+- [Code samples and projects](#code-samples-and-projects)
+- [Plugins](#plugins)
+- [Courses](#courses)
+- [Books](#books)
+
+## Videos
+
 [Michael Tom-Wing, Christie Wilson - Introduction to Unit Testing in Python with Pytest - PyCon 2016](https://www.youtube.com/watch?v=UPanUFVFfzY)
 
 [Why I use py.test and maybe you should too](https://www.youtube.com/watch?v=P-AhpukDIik)
@@ -14,7 +24,8 @@
 
 [Holger Krekel - pytest - rapid and simple testing with Python](https://www.youtube.com/watch?v=9LVqBQcFmyw)
 
-# Articles
+## Articles
+
 [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
 
 [Python unit testing with Pytest and Mock](https://medium.com/@bfortuner/python-unit-testing-with-pytest-and-mock-197499c4623c)
@@ -49,7 +60,8 @@
 
 [A checklist of best practices to speed up your pytest suite](https://github.com/zupo/awesome-pytest-speedup)
 
-# Presentations
+## Presentations
+
 [Adopt-a-pytest](https://www.youtube.com/watch?v=0BzXV0J3-v8) - [slides](https://speakerdeck.com/daneah/adopt-a-pytest)
 
 [pytest for unittest users](https://gitpitch.com/nicoddemus/pytest-for-unittest-users)
@@ -58,12 +70,11 @@
 
 [Pytest recommendations and basic packages for testing in Python and Django - Andreu Vallbona - PyBCN June 2019](https://www.slideshare.net/AndreuVallbonaPlazas/pybcn-pytest-recomendaciones-paquetes-bsicos-para-testing-en-python-y-django)
 
-
-# Code samples and projects
+## Code samples and projects
 
 [Requests - Python HTTP Requests for Humans™ and Pytest](https://github.com/requests/requests/tree/master/tests)
 
-# Plugins
+## Plugins
 
 [Plugin List](https://docs.pytest.org/en/latest/reference/plugin_list.html) - PyPI projects that match “pytest-*” are considered plugins and are listed automatically. Packages classified as inactive are excluded. This list contains 865 plugins.
 
@@ -157,13 +168,13 @@
 
 [syrupy](https://github.com/tophat/syrupy) - The sweeter pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
 
-# Courses
+## Courses
 
 [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
 
 [Calmcode - Intro to Testing with Pytest](https://calmcode.io/pytest/introduction.html)
 
-# Books
+## Books
 
 Python Testing with pytest by Brian Okken - [The Pragmatic Programmers (publisher)](https://pragprog.com/book/bopytest/python-testing-with-pytest)
 
