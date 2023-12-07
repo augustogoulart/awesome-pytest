@@ -129,6 +129,8 @@
 
 [pytest-ruff](https://github.com/buserbrasil/pytest-ruff) - Pytest plugin to lint code with ruff.
 
+[pytest-skipuntil](https://github.com/bp72/pytest-skipuntil) - A simple pytest plugin to skip flapping test with deadline.
+
 [pytest-socket](https://github.com/miketheman/pytest-socket) - Plugin to disable socket calls during tests.
 
 [pytest-spec](https://pypi.python.org/pypi/pytest-spec) - pytest plugin to display test execution output like a SPECIFICATION.
