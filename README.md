@@ -91,7 +91,7 @@
 
 [pytest django-migrations-ci](https://github.com/buserbrasil/django-migrations-ci) - pytest plugin to speed up test migrations with django-migrations-ci.
 
-[pytest_docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
+[pytest-docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
 
 [pytest-duration-insights](https://github.com/koaning/pytest-duration-insights) - Gives an interactive dashboard to show where the slow tests are.
 
@@ -104,6 +104,8 @@
 [pytest-git-selector](https://github.com/05798/pytest-git-selector) - A pytest plugin to deselect tests that are not affected by code changes.
 
 [pytest-lazy-fixtures](https://github.com/tvorog/pytest-lazy-fixture) - Use your fixtures in `@pytest.mark.parametrize`.
+
+[pytest-memray](https://github.com/bloomberg/pytest-memray) - A plugin for easy integration of the [memray](https://github.com/bloomberg/memray) memory profiler.
 
 [pytest-mimesis](https://github.com/pytest-dev/pytest-mimesis) - Mimesis integration with the pytest test runner. Generate fake data in your tests.
 
