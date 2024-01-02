@@ -84,6 +84,8 @@
 
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
 
+[pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failures per test.
+
 [pytest-checkipdb](https://pypi.org/project/pytest-checkipdb/) - Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
 
 [pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the readability of pytest output.
