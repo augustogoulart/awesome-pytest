@@ -6,13 +6,25 @@
 
 ## Contents
 
+- [Books](#books)
+- [Courses](#courses)
 - [Videos](#videos)
 - [Articles](#articles)
 - [Presentations](#presentations)
 - [Code samples and projects](#code-samples-and-projects)
 - [Plugins](#plugins)
-- [Courses](#courses)
-- [Books](#books)
+
+## Books
+
+Python Testing with pytest by Brian Okken - [The Pragmatic Programmers (publisher)](https://pragprog.com/book/bopytest/python-testing-with-pytest)
+
+Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.packtpub.com/web-development/pytest-quick-start-guide)
+
+## Courses
+
+[Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
+
+[Calmcode - Intro to Testing with Pytest](https://calmcode.io/pytest/introduction.html)
 
 ## Videos
 
@@ -174,14 +186,3 @@
 
 [syrupy](https://github.com/tophat/syrupy) - The sweeter pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
 
-## Courses
-
-[Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
-
-[Calmcode - Intro to Testing with Pytest](https://calmcode.io/pytest/introduction.html)
-
-## Books
-
-Python Testing with pytest by Brian Okken - [The Pragmatic Programmers (publisher)](https://pragprog.com/book/bopytest/python-testing-with-pytest)
-
-pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.packtpub.com/web-development/pytest-quick-start-guide)
