@@ -98,6 +98,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failures per test.
 
+[soft-assert](https://github.com/pashkatrick/soft-assert) - A lightweight pytest plugin that allows multiple failures per test with context manager support.
+
 [pytest-checkipdb](https://pypi.org/project/pytest-checkipdb/) - Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
 
 [pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the readability of pytest output.
