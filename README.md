@@ -120,6 +120,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-docfiles](https://github.com/stefanhoelzl/pytest_docfiles) - Test the code sections in your documentation.
 
+[pytest-accept](https://github.com/max-sixty/pytest-accept) - Plugin to automatically update doctest outputs. It runs doctests, observes the generated outputs, and writes them to the doctests' documented outputs.
+
 [pytest-duration-insights](https://github.com/koaning/pytest-duration-insights) - Gives an interactive dashboard to show where the slow tests are.
 
 [pytest-fast-first](https://pypi.org/project/pytest-fast-first/) - Run fast tests before slower one.
@@ -187,4 +189,3 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 [syrupy](https://github.com/tophat/syrupy) - The sweeter pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
-
