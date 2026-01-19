@@ -189,3 +189,5 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 [syrupy](https://github.com/tophat/syrupy) - The sweeter pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
+
+[testiq](https://github.com/pydevtools/TestIQ) -  Intelligent test analysis tool that finds duplicate and redundant tests using coverage analysis. Improve test suite quality with detailed reports and pytest integration.
