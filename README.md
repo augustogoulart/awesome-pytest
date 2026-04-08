@@ -191,3 +191,5 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 [syrupy](https://github.com/tophat/syrupy) - The sweeter pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
+
+[tenro](https://github.com/tenro-ai/tenro-python) - Simulate LLM and tool calls to test AI agent behavior, edge cases, and failure paths without real API calls.
