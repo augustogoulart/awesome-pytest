@@ -164,6 +164,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-ruff](https://github.com/buserbrasil/pytest-ruff) - Pytest plugin to lint code with ruff.
 
+[pytest-semantix](https://github.com/labrat-akhona/pytest-semantix) - Semantic assertions for LLM outputs. Validates that text *means* the right thing using a local NLI model (~15ms, no API key). Includes fixtures, markers, and CI reporting.
+
 [pytest-skipuntil](https://github.com/bp72/pytest-skipuntil) - A simple pytest plugin to skip flapping test with deadline.
 
 [pytest-socket](https://github.com/miketheman/pytest-socket) - Plugin to disable socket calls during tests.
