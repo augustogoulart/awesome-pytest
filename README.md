@@ -104,6 +104,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the readability of pytest output.
 
+[pytest-cloudreport](https://github.com/ahmad212o/pytest-cloudreport) - pytest plugin for local HTML test reports and cloud analytics with flaky-test detection.
+
 [pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - Tests code blocks in your READMEs.
 
 [pytest-cov](https://pypi.org/project/pytest-cov/) - This plugin produces coverage reports
