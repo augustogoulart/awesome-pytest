@@ -126,6 +126,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-fast-first](https://pypi.org/project/pytest-fast-first/) - Run fast tests before slower one.
 
+[FixtureForge](https://github.com/Yaniv2809/fixtureforge) - AI-powered pytest fixture & test data generator with deterministic CI mode (seed=42), Pydantic v2 support, DataSwarms for concurrent fixture creation, and ForgeMemory to prevent duplicate data across test sessions.
+
 [pytest-flake8](https://pypi.org/project/pytest-flake8/) - pytest plugin for efficiently checking PEP8 compliance
 
 [pytest-freezegun](https://pypi.org/project/pytest-freezegun/) - Plugin that allows your Python tests to travel through time by mocking the datetime module.
