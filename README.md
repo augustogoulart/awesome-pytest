@@ -188,6 +188,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-watcher](https://github.com/olzhasar/pytest-watcher) - Automatically rerun your tests on file modifications
 
+[pytest-web](https://github.com/usamaJ17/pytest-web) - A local web UI for running and managing pytest suites with parameterization.
+
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 [syrupy](https://github.com/tophat/syrupy) - The sweeter pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
