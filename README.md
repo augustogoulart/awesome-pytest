@@ -157,6 +157,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-neon](https://github.com/ZainRizvi/pytest-neon) - Pytest plugin for Neon database branch isolation. Each test gets its own isolated database state via Neon's instant branching.
 
+[pytest-mrt](https://github.com/croc100/pytest-mrt) - pytest plugin and CLI for Alembic and Django migration rollback safety testing. Detects unsafe migration patterns (44 static analysis rules) and verifies every migration is reversible via dynamic up/down/up cycle testing.
+
 [pytest-opentelemetry](https://github.com/chrisguidry/pytest-opentelemetry) - Instruments your pytest runs, exporting the spans and timing via OpenTelemetry.
 
 [pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
