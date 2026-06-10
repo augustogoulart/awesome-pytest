@@ -206,3 +206,5 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [syrupy](https://github.com/tophat/syrupy) - The sweeter pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
 
 [pytest-ranking](https://github.com/softwareTestingResearch/pytest-ranking) - This pytest plugin allows you to find regression test failures faster and receive testing feedback sooner from CI build. It speeds up the failure detection of your test suite by executing earlier the tests that are faster, recently failed, and more code-change-related.
+
+[asyncly](https://github.com/andy-takker/asyncly) - Pytest plugin providing fixtures to test async HTTP clients against a real aiohttp test server.
