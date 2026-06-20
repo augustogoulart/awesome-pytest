@@ -103,6 +103,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [AFLuent](https://github.com/AFLuent/AFLuent) - Automated fault localization tool built as a Pytest plugin. It's triggered when one or more test case fails causing it to generate a ranking of suspicious statements where the cause of the fault could possibly be.
 
+[modern-di-pytest](https://github.com/modern-python/modern-di-pytest) - Turns modern-di dependency-injection providers into pytest fixtures.
+
 [pyfakefs](https://github.com/pytest-dev/pyfakefs) - Provides a fake file system that mocks the Python file system modules.
 
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
