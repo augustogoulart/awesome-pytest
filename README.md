@@ -103,7 +103,7 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [AFLuent](https://github.com/AFLuent/AFLuent) - Automated fault localization tool built as a Pytest plugin. It's triggered when one or more test case fails causing it to generate a ranking of suspicious statements where the cause of the fault could possibly be.
 
-[modern-di-pytest](https://github.com/modern-python/modern-di-pytest) - Turns modern-di dependency-injection providers into pytest fixtures.
+[modern-di](https://github.com/modern-python/modern-di) - Dependency injection framework with IoC container and scopes, with a [pytest integration](https://github.com/modern-python/modern-di-pytest) that turns DI providers into pytest fixtures.
 
 [pyfakefs](https://github.com/pytest-dev/pyfakefs) - Provides a fake file system that mocks the Python file system modules.
 
