@@ -4,7 +4,7 @@
   <img src='https://raw.githubusercontent.com/augustogoulart/awesome-pytest/master/final.jpg'>
 </p>
 
-## ⚠️ ⚠️ AI ⚠️ ⚠️ 
+## ⚠️ ⚠️ AI ⚠️ ⚠️
 - Recently published plugins won't be accepted.
 - No form of self-promoting, AI-slope will be accepted.
 
@@ -156,6 +156,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards.
 
 [pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest-monitor is a pytest plugin designed for analyzing resource usage.
+
+[pytest-mrt](https://github.com/croc100/pytest-mrt) - Catch database migration rollback failures before they reach production (Alembic and Django migrations).
 
 [pytest-neon](https://github.com/ZainRizvi/pytest-neon) - Pytest plugin for Neon database branch isolation. Each test gets its own isolated database state via Neon's instant branching.
 
