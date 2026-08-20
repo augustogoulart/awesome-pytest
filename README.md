@@ -6,7 +6,7 @@
 
 ## ⚠️ ⚠️ AI ⚠️ ⚠️ 
 - Recently published plugins won't be accepted.
-- No form of self-promoting, AI-slope will be accepted.
+- No form of self-promoting, AI-slop will be accepted.
 
 ## Contents
 
