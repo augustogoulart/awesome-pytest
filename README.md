@@ -95,6 +95,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 ## Code samples and projects
 
+[AI API Test Generator](https://github.com/hajar-benhadj/AI-API-TEST-Generator) - Parses Swagger/OpenAPI documentation and leverages AI to auto-generate Pytest test suites for REST APIs.
+
 [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Hardware-in-the-loop testing framework with pytest integration for automated testing on real and virtual hardware.
 
 [Requests - Python HTTP Requests for Humans™ and Pytest](https://github.com/requests/requests/tree/master/tests)
