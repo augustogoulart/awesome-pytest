@@ -159,6 +159,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-neon](https://github.com/ZainRizvi/pytest-neon) - Pytest plugin for Neon database branch isolation. Each test gets its own isolated database state via Neon's instant branching.
 
+[pytest-obligation](https://github.com/gigaverse-app/pytest-obligation) - Generates fault-injection tests from application workflow contracts to find lost work, duplicate effects, and recovery bugs.
+
 [pytest-opentelemetry](https://github.com/chrisguidry/pytest-opentelemetry) - Instruments your pytest runs, exporting the spans and timing via OpenTelemetry.
 
 [pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
@@ -178,6 +180,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [pytest-robotframework](https://github.com/detachhead/pytest-robotframework) - Lets you run both python and robotframework tests with pytest while generating robot reports for them.
 
 [pytest-ruff](https://github.com/buserbrasil/pytest-ruff) - Pytest plugin to lint code with ruff.
+
+[pytest-selective](https://github.com/gigaverse-app/pytest-selective) - Selects pytest files affected by Git changes using dependency analysis and explains why each file was selected.
 
 [pytest-skipuntil](https://github.com/bp72/pytest-skipuntil) - A simple pytest plugin to skip flapping test with deadline.
 
