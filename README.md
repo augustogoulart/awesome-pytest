@@ -83,6 +83,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [pytest Reference](https://pydevtools.com/handbook/reference/pytest/) - A reference page covering pytest's key features, pros, cons, and ecosystem.
 [pytest-ranking: A Regression Test Prioritization Tool for Python](https://dl.acm.org/doi/10.1145/3696630.3728587)
 
+[White Box Testing: Techniques, Examples & Best Practices](https://keploy.io/blog/community/white-box-testing) - Statement, branch, path and condition coverage explained with pytest examples, measured with pytest-cov.
+
 ## Presentations
 
 [Adopt-a-pytest](https://www.youtube.com/watch?v=0BzXV0J3-v8) - [slides](https://speakerdeck.com/daneah/adopt-a-pytest)
