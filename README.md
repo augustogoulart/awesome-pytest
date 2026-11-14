@@ -97,6 +97,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Hardware-in-the-loop testing framework with pytest integration for automated testing on real and virtual hardware.
 
+[Maily Pytest Recipes](https://github.com/stormsia/maily#recipe-1-pytest-async-fixture-automated-signup-verification) - Reusable async Pytest fixtures for temporary email inboxes and automated verification code extraction.
+
 [Requests - Python HTTP Requests for Humans™ and Pytest](https://github.com/requests/requests/tree/master/tests)
 
 ## Plugins
