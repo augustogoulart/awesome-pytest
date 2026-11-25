@@ -107,6 +107,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pyfakefs](https://github.com/pytest-dev/pyfakefs) - Provides a fake file system that mocks the Python file system modules.
 
+[pytest-agentest](https://github.com/srpadmanabhuni/pytest-agentest) - Pytest plugin for AiEnsured agentest, an Agentic AI Testing platform that runs 165 deterministic offline tests on recorded agent traces.
+
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
 
 [pytest-capquery](https://github.com/fmartins/pytest-capquery/) - is a pytest fixture for high-precision SQL testing in SQLAlchemy. It captures executed queries, normalizes formatting via sqlparse, and tracks transaction savepoints. Designed for strict query plan validation, it includes built-in debugging tools to easily maintain and update database assertions.
